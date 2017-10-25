@@ -1,6 +1,6 @@
 ---
 title: "git_01"
-author: "Math_116"
+author: "Larry Gorden"
 date: "Fall semester"
 output: html_document
 ---
@@ -22,6 +22,12 @@ Did gyre and gimble in the wabe:
 All mimsy were the borogoves,
 
 And the mome raths outgrabe.
+
+Twas brillig, and the slithy toves  
+Did gyre and gimble in the wabe:  
+All mimsy were the borogoves,  
+And the mome raths outgrabe.  
+Beware the Jabberwock, my son!  
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
