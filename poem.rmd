@@ -1,6 +1,6 @@
 ---
 title: "git_01"
-author: "Larry Gorden"
+author: "Avelyn Potot"
 date: "Fall semester"
 output: html_document
 ---
@@ -9,12 +9,12 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 # Build a Poem with commits to different branches
+
 Our project will be done using a sequence of save and commits and branch actions.
 <!-- Do not modify or change any text in "!--" bracketed areas such as this --- these are instructions to
 you, if you change any of this the git program will notice it and compromise your git merging strategy !-->
 
 ## First Verse 
-
 Twas brillig, and the slithy toves
 
 Did gyre and gimble in the wabe:
@@ -23,7 +23,7 @@ All mimsy were the borogoves;
 
 And the mome raths outgrabe.
 
-Beware the Jabberwock, my son!  
+Beware the Jabberwock, my son!
 
 ## Second Verse
 
@@ -33,15 +33,11 @@ Two roads diverged in a yellow wood,
 And sorry I could not travel both
 
 And be one traveler, long I stood
-
-
 And looked down one as far as I could
 
 To where it bent in the undergrowth
 
-
 ## Third Verse
-
 
 The sun was shining on the sea,
 
@@ -49,21 +45,13 @@ Shining with all his might:
 
 ## Last Verse
 
-
 It was many and many a year ago,
+In a kingdom by the sea, 
 
-   In a kingdom by the sea, 
-   
-That a maiden there lived whom you
+That a maiden there lived whom you may know 
+By the name of Annabel Lee;
 
-may know 
-
-   By the name of Annabel Lee; 
-   
-And this maiden she lived with no
-
-other thought 
-
-   Than to love and be loved by me. 
+And this maiden she lived with no other thought 
+Than to love and be loved by me. 
 
 
